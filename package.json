@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "mysql2": "^2.3.0"
+  },
+  "name": "machinedramon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NebulaJoker/machinedramon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NebulaJoker/machinedramon/issues"
+  },
+  "homepage": "https://github.com/NebulaJoker/machinedramon#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

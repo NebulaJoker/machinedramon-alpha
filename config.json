@@ -1,0 +1,15 @@
+{
+    "token": "placeholder",
+    "guildId": "placeholder",
+    "clientId": "placeholder",
+    "serverURL": "https://staging.nebulajoker.com",
+    "mysqlSettings": {
+        "host": "127.0.0.1",
+        "user": "placeholder",
+        "password": "placeholder",
+        "database": "Digimon",
+        "waitForConnections": true,
+        "connectionLimit": 100,
+        "queueLimit": 0
+    }
+}
